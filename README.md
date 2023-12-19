@@ -1,4 +1,4 @@
-# yoga-form-crud
+# yoga-form
 ## Problem Statement:
 Assume that you are the CTO for the outsourcing firm which has been chosen to build an
 admission form for the Yoga Classes which happen every month.
